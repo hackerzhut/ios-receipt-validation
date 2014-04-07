@@ -2,7 +2,7 @@
 
 /**
  * This code call the apple sandbox in app purchase server to validate a receipt using Groovy Code.
- * Run this using "groovy verifyReceipt"
+ * Run this using -> groovy verifyReceipt
  * By @hackerzhut
  **/
 
